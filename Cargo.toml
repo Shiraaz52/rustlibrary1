@@ -1,0 +1,12 @@
+[package]
+name = "rustLib"
+version = "0.1.0"
+authors = ["Shiraaz52"]
+description = "Sample library in rust"
+license = "MIT OR Apache-2.0"
+homepage = "https://github.com/Shiraaz52/rustlibrary1"
+repository = "https://github.com/Shiraaz52/rustlibrary1"
+edition = "2021"
+readme = "README.md"
+
+[dependencies]
